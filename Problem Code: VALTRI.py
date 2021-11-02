@@ -1,4 +1,5 @@
 # Raju and His Trip | Problem Code: VALTRI
+
 """
 Raju is planning to visit his favourite restaurant. He shall travel to it by bus. 
 Only the buses whose numbers are divisible by 5 or by 6 shall take him to his destination. 
